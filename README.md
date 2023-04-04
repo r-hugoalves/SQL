@@ -58,22 +58,22 @@ Cláusula having (Prática) <br>
 
 ## 6) Trabalhando com Múltiplas Tabelas
 
-Union (Teoria)
-Union (Prática)
-Junção Inner (Teoria)
-Junção Inner (Prática)
-Junção Cross (Teoria)
-Junção Cross (Prática)
-Junção Left / Right (Teoria)
-Junção Left / Right (Prática)
+Union (Teoria) <br>
+Union (Prática) <br>
+Junção Inner (Teoria) <br>
+Junção Inner (Prática) <br>
+Junção Cross (Teoria) <br>
+Junção Cross (Prática) <br>
+Junção Left / Right (Teoria) <br>
+Junção Left / Right (Prática) <br>
 
 ## 7) Técnicas Avançadas
 
-Subqueries (Teoria)
-Subqueries (Prática)
-Agregações por particionamento (Teoria)
-Agregações por particionamento (Prática)
-Visões (Teoria)
-Visões (Prática)
+Subqueries (Teoria) <br>
+Subqueries (Prática) <br>
+Agregações por particionamento (Teoria) <br>
+Agregações por particionamento (Prática) <br>
+Visões (Teoria) <br>
+Visões (Prática) <br>
 
 ## 8) Projeto completo com SQL
