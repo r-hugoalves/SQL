@@ -49,8 +49,31 @@ Seleção condicional com case / when / then (Prática) <br>
 
 ## 5) Agregações
 
+Função count e cláusula group by (Teoria) <br>
+Função count e cláusula group by (Prática) <br>
+Funções min / max / sum / avg (Teoria) <br>
+Funções min / max / sum / avg (Prática) <br>
+Cláusula having (Teoria) <br>
+Cláusula having (Prática) <br>
+
 ## 6) Trabalhando com Múltiplas Tabelas
 
+Union (Teoria)
+Union (Prática)
+Junção Inner (Teoria)
+Junção Inner (Prática)
+Junção Cross (Teoria)
+Junção Cross (Prática)
+Junção Left / Right (Teoria)
+Junção Left / Right (Prática)
+
 ## 7) Técnicas Avançadas
+
+Subqueries (Teoria)
+Subqueries (Prática)
+Agregações por particionamento (Teoria)
+Agregações por particionamento (Prática)
+Visões (Teoria)
+Visões (Prática)
 
 ## 8) Projeto completo com SQL
